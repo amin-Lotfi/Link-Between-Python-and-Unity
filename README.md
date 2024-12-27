@@ -17,7 +17,7 @@ A real-time bridge between Python and Unity using **MediaPipe**, **OpenCV**, and
 ## Preview  
 
 ### Pose Detection Screenshot:  
-![Pose Detection](image/Screenshot-from-2024-12-27-14-52-53.png)  
+![Pose Detection](image/Screenshot from 2024-12-27 14-52-53.png)  
 
 ### Unity Integration Video:  
 ![Unity Integration](image/IMG_2910.mp4)  
